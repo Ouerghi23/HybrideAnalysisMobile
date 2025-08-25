@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "972660051873",
+    "firebase_url": "https://facedetection-74e1f-default-rtdb.firebaseio.com",
+    "project_id": "facedetection-74e1f",
+    "storage_bucket": "facedetection-74e1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:412c9ac7f5dd0447ba85e0",
+        "android_client_info": {
+          "package_name": "com.cometchat.sampleapp.java.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:99b7e35857e61070ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:e3452888a01e76e7ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.hybridanalysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:550f370a69cb2b06ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.newpharma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:3b2bcfff7b889756ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.scholarchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:7a673aac50e0a7f2ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.scholarhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:275883ed82ef6e76ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.tekfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972660051873:android:39f7542b211fe371ba85e0",
+        "android_client_info": {
+          "package_name": "com.example.textme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN7GOutRWO0iRTLsTwocXgxHbujWC6wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hybrid Analysis</string>
+
+    <!-- Activity Titles -->
+    <string name="title_login">Connexion</string>
+    <string name="title_main">Hybrid Analysis</string>
+    <string name="title_analysis">Analyse en cours</string>
+    <string name="title_chatbot">Assistant Sécurité</string>
+
+    <!-- Login Screen -->
+    <string name="hint_email">votre.email@example.com</string>
+    <string name="hint_password">••••••••</string>
+    <string name="btn_login">SE CONNECTER</string>
+    <string name="btn_register">S\'INSCRIRE</string>
+    <string name="text_no_account">Pas de compte? S\'inscrire</string>
+    <string name="text_have_account">Déjà un compte? Se connecter</string>
+    <string name="app_subtitle">Plateforme d\'analyse de sécurité</string>
+
+    <!-- Main Screen -->
+    <string name="hint_input">URL, IP, domaine ou hash de fichier...</string>
+    <string name="label_analysis_type">Type d\'analyse:</string>
+    <string name="label_service">Service d\'analyse:</string>
+    <string name="btn_analyze">ANALYSER</string>
+    <string name="btn_chatbot">CHATBOT ASSISTANT</string>
+    <string name="btn_logout">Déconnexion</string>
+
+    <!-- Radio Button Options -->
+    <string name="rb_url">URL</string>
+    <string name="rb_ip">IP</string>
+    <string name="rb_domain">Domaine</string>
+    <string name="rb_file">Fichier</string>
+    <string name="rb_otx">AlienVault OTX</string>
+    <string name="rb_vt">VirusTotal</string>
+
+    <!-- Analysis Screen -->
+    <string name="title_results">Résultats de l\'analyse</string>
+    <string name="btn_share">PARTAGER</string>
+    <string name="btn_new_analysis">NOUVELLE ANALYSE</string>
+    <string name="text_analysis_init">Initialisation de l\'analyse...</string>
+    <string name="text_analysis_progress">Analyse en cours...</string>
+
+    <!-- Chatbot Screen -->
+    <string name="hint_message">Tapez votre message...</string>
+    <string name="text_online">En ligne</string>
+    <string name="quick_action_1">Qu\'est-ce qu\'un malware?</string>
+    <string name="quick_action_2">Types d\'attaques</string>
+    <string name="quick_action_3">Bonnes pratiques</string>
+
+    <!-- Input Hints -->
+    <string name="hint_url">Entrez l\'URL à analyser</string>
+    <string name="hint_ip">Entrez l\'adresse IP</string>
+    <string name="hint_domain">Entrez le domaine</string>
+    <string name="hint_file">Hash du fichier ou chemin</string>
+
+    <!-- Validation Messages -->
+    <string name="error_empty_input">Veuillez entrer quelque chose à analyser</string>
+    <string name="error_select_type_service">Veuillez sélectionner le type et le service d\'analyse</string>
+    <string name="error_email_required">Email requis</string>
+    <string name="error_password_required">Mot de passe requis</string>
+    <string name="error_password_length">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="error_empty_message">Veuillez entrer un message</string>
+
+    <!-- Success Messages -->
+    <string name="success_login">Connexion réussie</string>
+    <string name="success_register">Inscription réussie</string>
+
+    <!-- Error Messages -->
+    <string name="error_login_failed">Échec de la connexion: %1$s</string>
+    <string name="error_register_failed">Échec de l\'inscription: %1$s</string>
+    <string name="error_save_user_data">Erreur lors de la sauvegarde des données utilisateur</string>
+    <string name="error_analysis_ip">Erreur lors de l\'analyse IP: %1$s</string>
+    <string name="error_analysis_general">Erreur lors de l\'analyse: %1$s</string>
+    <string name="error_format_response">Erreur lors du formatage de la réponse: %1$s</string>
+    <string name="error_network">Erreur réseau: %1$s</string>
+    <string name="error_api_keys_missing">Clés API manquantes. Configurez: %1$s</string>
+
+    <!-- Analysis Results -->
+    <string name="analysis_ip_title">=== ANALYSE IP ===</string>
+    <string name="analysis_vt_title">=== ANALYSE VIRUSTOTAL ===</string>
+    <string name="analysis_otx_title">=== ANALYSE OTX ===</string>
+
+    <string name="result_ip">IP:</string>
+    <string name="result_country">Pays:</string>
+    <string name="result_region">Région:</string>
+    <string name="result_city">Ville:</string>
+    <string name="result_org">Organisation:</string>
+    <string name="result_timezone">Timezone:</string>
+    <string name="result_location">Localisation:</string>
+    <string name="result_type">Type:</string>
+    <string name="result_malicious">Malveillant:</string>
+    <string name="result_suspicious">Suspect:</string>
+    <string name="result_clean">Propre:</string>
+    <string name="result_undetected">Non détecté:</string>
+    <string name="result_reputation">Réputation:</string>
+    <string name="result_pulse_count">Nombre de pulses:</string>
+
+    <!-- Common -->
+    <string name="text_na">N/A</string>
+    <string name="text_loading">Chargement...</string>
+    <string name="text_error">Erreur</string>
+    <string name="text_success">Succès</string>
+
+</resources>
+
